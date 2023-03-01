@@ -9,3 +9,11 @@
 #1-4 t
 
 #1-5
+
+#1-6 ,dengdai  push . no  " git add".
+
+#1-7 git status,  
+
+#git add .  添加到缓存区
+
+#git commit filename.xxx -m "beizhu notes"
