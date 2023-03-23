@@ -19,3 +19,4 @@ col_summary <- function(df,dun){
 }
 
 col_summary(dat,mean)
+
