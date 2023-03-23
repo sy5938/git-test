@@ -13,7 +13,9 @@
 #1-6 ,dengdai  push . no  " git add".
 
 #1-7 git status,  
-
+# 
 #git add .  添加到缓存区
 
 #git commit filename.xxx -m "beizhu notes"
+
+#git push  在连VPN的情况下，能上传到 github上
